@@ -1,0 +1,2023 @@
+fileFormatVersion: 2
+guid: c36a2197423ea5146a5844c36c0e2eaf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Center
+    100004: Center_Corner
+    100006: Center_Corner 1
+    100008: Center_Corner 2
+    100010: Center_steps
+    100012: Center_steps 1
+    100014: Center_steps 2
+    100016: Center_steps 3
+    100018: Core
+    100020: group_0
+    100022: group_0 1
+    100024: group_0 2
+    100026: group_0 3
+    100028: ID102
+    100030: ID102 1
+    100032: ID102 2
+    100034: ID102 3
+    100036: ID115
+    100038: ID115 1
+    100040: ID115 2
+    100042: ID115 3
+    100044: ID123
+    100046: ID123 1
+    100048: ID123 2
+    100050: ID123 3
+    100052: ID131
+    100054: ID131 1
+    100056: ID131 2
+    100058: ID131 3
+    100060: ID206
+    100062: ID214
+    100064: ID222
+    100066: ID230
+    100068: ID238
+    100070: ID246
+    100072: ID254
+    100074: ID262
+    100076: ID270
+    100078: ID325
+    100080: ID325 1
+    100082: ID325 10
+    100084: ID325 11
+    100086: ID325 12
+    100088: ID325 13
+    100090: ID325 14
+    100092: ID325 15
+    100094: ID325 16
+    100096: ID325 17
+    100098: ID325 18
+    100100: ID325 19
+    100102: ID325 2
+    100104: ID325 20
+    100106: ID325 21
+    100108: ID325 22
+    100110: ID325 23
+    100112: ID325 24
+    100114: ID325 25
+    100116: ID325 26
+    100118: ID325 27
+    100120: ID325 28
+    100122: ID325 29
+    100124: ID325 3
+    100126: ID325 30
+    100128: ID325 31
+    100130: ID325 4
+    100132: ID325 5
+    100134: ID325 6
+    100136: ID325 7
+    100138: ID325 8
+    100140: ID325 9
+    100142: ID33
+    100144: ID33 1
+    100146: ID33 2
+    100148: ID33 3
+    100150: ID333
+    100152: ID333 1
+    100154: ID333 10
+    100156: ID333 11
+    100158: ID333 12
+    100160: ID333 13
+    100162: ID333 14
+    100164: ID333 15
+    100166: ID333 16
+    100168: ID333 17
+    100170: ID333 18
+    100172: ID333 19
+    100174: ID333 2
+    100176: ID333 20
+    100178: ID333 21
+    100180: ID333 22
+    100182: ID333 23
+    100184: ID333 24
+    100186: ID333 25
+    100188: ID333 26
+    100190: ID333 27
+    100192: ID333 28
+    100194: ID333 29
+    100196: ID333 3
+    100198: ID333 30
+    100200: ID333 31
+    100202: ID333 4
+    100204: ID333 5
+    100206: ID333 6
+    100208: ID333 7
+    100210: ID333 8
+    100212: ID333 9
+    100214: ID379
+    100216: ID379 1
+    100218: ID379 2
+    100220: ID379 3
+    100222: ID387
+    100224: ID387 1
+    100226: ID387 2
+    100228: ID387 3
+    100230: ID395
+    100232: ID395 1
+    100234: ID395 2
+    100236: ID395 3
+    100238: ID401
+    100240: ID401 1
+    100242: ID401 2
+    100244: ID401 3
+    100246: ID414
+    100248: ID414 1
+    100250: ID414 2
+    100252: ID414 3
+    100254: ID438
+    100256: ID438 1
+    100258: ID438 2
+    100260: ID438 3
+    100262: ID451
+    100264: ID451 1
+    100266: ID451 2
+    100268: ID451 3
+    100270: ID46
+    100272: ID46 1
+    100274: ID46 2
+    100276: ID46 3
+    100278: ID464
+    100280: ID464 1
+    100282: ID464 2
+    100284: ID464 3
+    100286: ID477
+    100288: ID477 1
+    100290: ID477 2
+    100292: ID477 3
+    100294: ID483
+    100296: ID483 1
+    100298: ID483 2
+    100300: ID483 3
+    100302: ID491
+    100304: ID491 1
+    100306: ID491 2
+    100308: ID491 3
+    100310: ID497
+    100312: ID497 1
+    100314: ID497 2
+    100316: ID497 3
+    100318: ID505
+    100320: ID505 1
+    100322: ID505 2
+    100324: ID505 3
+    100326: ID511
+    100328: ID511 1
+    100330: ID511 2
+    100332: ID511 3
+    100334: ID519
+    100336: ID519 1
+    100338: ID519 2
+    100340: ID519 3
+    100342: ID527
+    100344: ID527 1
+    100346: ID527 2
+    100348: ID527 3
+    100350: ID533
+    100352: ID533 1
+    100354: ID533 2
+    100356: ID533 3
+    100358: ID54
+    100360: ID54 1
+    100362: ID54 2
+    100364: ID54 3
+    100366: ID541
+    100368: ID541 1
+    100370: ID541 2
+    100372: ID541 3
+    100374: ID549
+    100376: ID549 1
+    100378: ID549 2
+    100380: ID549 3
+    100382: ID557
+    100384: ID557 1
+    100386: ID557 2
+    100388: ID557 3
+    100390: ID563
+    100392: ID563 1
+    100394: ID563 2
+    100396: ID563 3
+    100398: ID593
+    100400: ID62
+    100402: ID62 1
+    100404: ID62 2
+    100406: ID62 3
+    100408: ID75
+    100410: ID75 1
+    100412: ID75 2
+    100414: ID75 3
+    100416: ID83
+    100418: ID83 1
+    100420: ID83 2
+    100422: ID83 3
+    100424: ID89
+    100426: ID89 1
+    100428: ID89 2
+    100430: ID89 3
+    100432: instance_0
+    100434: instance_1
+    100436: instance_10
+    100438: instance_11
+    100440: instance_12
+    100442: instance_13
+    100444: instance_14
+    100446: instance_15
+    100448: instance_15 1
+    100450: instance_15 2
+    100452: instance_15 3
+    100454: instance_16
+    100456: instance_16 1
+    100458: instance_16 10
+    100460: instance_16 11
+    100462: instance_16 12
+    100464: instance_16 13
+    100466: instance_16 14
+    100468: instance_16 15
+    100470: instance_16 16
+    100472: instance_16 17
+    100474: instance_16 18
+    100476: instance_16 19
+    100478: instance_16 2
+    100480: instance_16 20
+    100482: instance_16 21
+    100484: instance_16 22
+    100486: instance_16 23
+    100488: instance_16 24
+    100490: instance_16 25
+    100492: instance_16 26
+    100494: instance_16 27
+    100496: instance_16 28
+    100498: instance_16 29
+    100500: instance_16 3
+    100502: instance_16 30
+    100504: instance_16 31
+    100506: instance_16 4
+    100508: instance_16 5
+    100510: instance_16 6
+    100512: instance_16 7
+    100514: instance_16 8
+    100516: instance_16 9
+    100518: instance_17
+    100520: instance_17 1
+    100522: instance_17 10
+    100524: instance_17 11
+    100526: instance_17 12
+    100528: instance_17 13
+    100530: instance_17 14
+    100532: instance_17 15
+    100534: instance_17 16
+    100536: instance_17 17
+    100538: instance_17 18
+    100540: instance_17 19
+    100542: instance_17 2
+    100544: instance_17 20
+    100546: instance_17 21
+    100548: instance_17 22
+    100550: instance_17 23
+    100552: instance_17 24
+    100554: instance_17 25
+    100556: instance_17 26
+    100558: instance_17 27
+    100560: instance_17 28
+    100562: instance_17 29
+    100564: instance_17 3
+    100566: instance_17 30
+    100568: instance_17 31
+    100570: instance_17 4
+    100572: instance_17 5
+    100574: instance_17 6
+    100576: instance_17 7
+    100578: instance_17 8
+    100580: instance_17 9
+    100582: instance_18
+    100584: instance_18 1
+    100586: instance_18 10
+    100588: instance_18 11
+    100590: instance_18 12
+    100592: instance_18 13
+    100594: instance_18 14
+    100596: instance_18 15
+    100598: instance_18 16
+    100600: instance_18 17
+    100602: instance_18 18
+    100604: instance_18 19
+    100606: instance_18 2
+    100608: instance_18 20
+    100610: instance_18 21
+    100612: instance_18 22
+    100614: instance_18 23
+    100616: instance_18 24
+    100618: instance_18 25
+    100620: instance_18 26
+    100622: instance_18 27
+    100624: instance_18 28
+    100626: instance_18 29
+    100628: instance_18 3
+    100630: instance_18 30
+    100632: instance_18 31
+    100634: instance_18 4
+    100636: instance_18 5
+    100638: instance_18 6
+    100640: instance_18 7
+    100642: instance_18 8
+    100644: instance_18 9
+    100646: instance_19
+    100648: instance_19 1
+    100650: instance_19 2
+    100652: instance_19 3
+    100654: instance_2
+    100656: instance_20
+    100658: instance_20 1
+    100660: instance_20 2
+    100662: instance_20 3
+    100664: instance_21
+    100666: instance_21 1
+    100668: instance_21 2
+    100670: instance_21 3
+    100672: instance_22
+    100674: instance_22 1
+    100676: instance_22 2
+    100678: instance_22 3
+    100680: instance_23
+    100682: instance_23 1
+    100684: instance_23 2
+    100686: instance_23 3
+    100688: instance_24
+    100690: instance_24 1
+    100692: instance_24 2
+    100694: instance_24 3
+    100696: instance_25
+    100698: instance_25 1
+    100700: instance_25 2
+    100702: instance_25 3
+    100704: instance_26
+    100706: instance_26 1
+    100708: instance_26 2
+    100710: instance_26 3
+    100712: instance_27
+    100714: instance_27 1
+    100716: instance_27 2
+    100718: instance_27 3
+    100720: instance_28
+    100722: instance_28 1
+    100724: instance_28 2
+    100726: instance_28 3
+    100728: instance_29
+    100730: instance_29 1
+    100732: instance_29 2
+    100734: instance_29 3
+    100736: instance_3
+    100738: instance_30
+    100740: instance_31
+    100742: instance_32
+    100744: instance_33
+    100746: instance_34
+    100748: instance_35
+    100750: instance_36
+    100752: instance_37
+    100754: instance_38
+    100756: instance_39
+    100758: instance_4
+    100760: instance_40
+    100762: instance_41
+    100764: instance_42
+    100766: instance_43
+    100768: instance_44
+    100770: instance_5
+    100772: instance_6
+    100774: instance_7
+    100776: instance_8
+    100778: instance_9
+    100780: LongWall
+    100782: LongWall 1
+    100784: LongWall 2
+    100786: LongWall 3
+    100788: Middle_Wall
+    100790: Middle_Wall 1
+    100792: Middle_Wall 2
+    100794: Middle_Wall 3
+    100796: Plane
+    100798: skp_camera_Last_Saved_SketchUp_View
+    100800: Small_Wall
+    100802: Small_Wall 1
+    100804: Small_Wall 2
+    100806: Small_Wall 3
+    100808: Small_Wall 4
+    100810: Small_Wall 5
+    100812: Small_Wall 6
+    100814: Small_Wall 7
+    100816: Tower
+    100818: Tower 1
+    100820: Tower 2
+    100822: Tower 3
+    100824: Tower_Arch
+    100826: Tower_Arch 1
+    100828: Tower_Arch 10
+    100830: Tower_Arch 11
+    100832: Tower_Arch 12
+    100834: Tower_Arch 13
+    100836: Tower_Arch 14
+    100838: Tower_Arch 15
+    100840: Tower_Arch 16
+    100842: Tower_Arch 17
+    100844: Tower_Arch 18
+    100846: Tower_Arch 19
+    100848: Tower_Arch 2
+    100850: Tower_Arch 20
+    100852: Tower_Arch 21
+    100854: Tower_Arch 22
+    100856: Tower_Arch 23
+    100858: Tower_Arch 24
+    100860: Tower_Arch 25
+    100862: Tower_Arch 26
+    100864: Tower_Arch 27
+    100866: Tower_Arch 28
+    100868: Tower_Arch 29
+    100870: Tower_Arch 3
+    100872: Tower_Arch 30
+    100874: Tower_Arch 31
+    100876: Tower_Arch 32
+    100878: Tower_Arch 33
+    100880: Tower_Arch 34
+    100882: Tower_Arch 35
+    100884: Tower_Arch 36
+    100886: Tower_Arch 37
+    100888: Tower_Arch 38
+    100890: Tower_Arch 39
+    100892: Tower_Arch 4
+    100894: Tower_Arch 40
+    100896: Tower_Arch 41
+    100898: Tower_Arch 42
+    100900: Tower_Arch 43
+    100902: Tower_Arch 44
+    100904: Tower_Arch 45
+    100906: Tower_Arch 46
+    100908: Tower_Arch 47
+    100910: Tower_Arch 48
+    100912: Tower_Arch 49
+    100914: Tower_Arch 5
+    100916: Tower_Arch 50
+    100918: Tower_Arch 51
+    100920: Tower_Arch 52
+    100922: Tower_Arch 53
+    100924: Tower_Arch 54
+    100926: Tower_Arch 55
+    100928: Tower_Arch 56
+    100930: Tower_Arch 57
+    100932: Tower_Arch 58
+    100934: Tower_Arch 59
+    100936: Tower_Arch 6
+    100938: Tower_Arch 60
+    100940: Tower_Arch 61
+    100942: Tower_Arch 62
+    100944: Tower_Arch 63
+    100946: Tower_Arch 64
+    100948: Tower_Arch 65
+    100950: Tower_Arch 66
+    100952: Tower_Arch 67
+    100954: Tower_Arch 68
+    100956: Tower_Arch 69
+    100958: Tower_Arch 7
+    100960: Tower_Arch 70
+    100962: Tower_Arch 71
+    100964: Tower_Arch 72
+    100966: Tower_Arch 73
+    100968: Tower_Arch 74
+    100970: Tower_Arch 75
+    100972: Tower_Arch 76
+    100974: Tower_Arch 77
+    100976: Tower_Arch 78
+    100978: Tower_Arch 79
+    100980: Tower_Arch 8
+    100982: Tower_Arch 80
+    100984: Tower_Arch 81
+    100986: Tower_Arch 82
+    100988: Tower_Arch 83
+    100990: Tower_Arch 84
+    100992: Tower_Arch 85
+    100994: Tower_Arch 86
+    100996: Tower_Arch 87
+    100998: Tower_Arch 88
+    101000: Tower_Arch 89
+    101002: Tower_Arch 9
+    101004: Tower_Arch 90
+    101006: Tower_Arch 91
+    101008: Tower_Arch 92
+    101010: Tower_Arch 93
+    101012: Tower_Arch 94
+    101014: Tower_Arch 95
+    101016: Tower_Arches
+    101018: Tower_Arches 1
+    101020: Tower_Arches 10
+    101022: Tower_Arches 11
+    101024: Tower_Arches 12
+    101026: Tower_Arches 13
+    101028: Tower_Arches 14
+    101030: Tower_Arches 15
+    101032: Tower_Arches 16
+    101034: Tower_Arches 17
+    101036: Tower_Arches 18
+    101038: Tower_Arches 19
+    101040: Tower_Arches 2
+    101042: Tower_Arches 20
+    101044: Tower_Arches 21
+    101046: Tower_Arches 22
+    101048: Tower_Arches 23
+    101050: Tower_Arches 24
+    101052: Tower_Arches 25
+    101054: Tower_Arches 26
+    101056: Tower_Arches 27
+    101058: Tower_Arches 28
+    101060: Tower_Arches 29
+    101062: Tower_Arches 3
+    101064: Tower_Arches 30
+    101066: Tower_Arches 31
+    101068: Tower_Arches 4
+    101070: Tower_Arches 5
+    101072: Tower_Arches 6
+    101074: Tower_Arches 7
+    101076: Tower_Arches 8
+    101078: Tower_Arches 9
+    101080: Tower_Trim
+    101082: Tower_Trim 1
+    101084: Tower_Trim 10
+    101086: Tower_Trim 11
+    101088: Tower_Trim 12
+    101090: Tower_Trim 13
+    101092: Tower_Trim 14
+    101094: Tower_Trim 15
+    101096: Tower_Trim 2
+    101098: Tower_Trim 3
+    101100: Tower_Trim 4
+    101102: Tower_Trim 5
+    101104: Tower_Trim 6
+    101106: Tower_Trim 7
+    101108: Tower_Trim 8
+    101110: Tower_Trim 9
+    400000: //RootNode
+    400002: Center
+    400004: Center_Corner
+    400006: Center_Corner 1
+    400008: Center_Corner 2
+    400010: Center_steps
+    400012: Center_steps 1
+    400014: Center_steps 2
+    400016: Center_steps 3
+    400018: Core
+    400020: group_0
+    400022: group_0 1
+    400024: group_0 2
+    400026: group_0 3
+    400028: ID102
+    400030: ID102 1
+    400032: ID102 2
+    400034: ID102 3
+    400036: ID115
+    400038: ID115 1
+    400040: ID115 2
+    400042: ID115 3
+    400044: ID123
+    400046: ID123 1
+    400048: ID123 2
+    400050: ID123 3
+    400052: ID131
+    400054: ID131 1
+    400056: ID131 2
+    400058: ID131 3
+    400060: ID206
+    400062: ID214
+    400064: ID222
+    400066: ID230
+    400068: ID238
+    400070: ID246
+    400072: ID254
+    400074: ID262
+    400076: ID270
+    400078: ID325
+    400080: ID325 1
+    400082: ID325 10
+    400084: ID325 11
+    400086: ID325 12
+    400088: ID325 13
+    400090: ID325 14
+    400092: ID325 15
+    400094: ID325 16
+    400096: ID325 17
+    400098: ID325 18
+    400100: ID325 19
+    400102: ID325 2
+    400104: ID325 20
+    400106: ID325 21
+    400108: ID325 22
+    400110: ID325 23
+    400112: ID325 24
+    400114: ID325 25
+    400116: ID325 26
+    400118: ID325 27
+    400120: ID325 28
+    400122: ID325 29
+    400124: ID325 3
+    400126: ID325 30
+    400128: ID325 31
+    400130: ID325 4
+    400132: ID325 5
+    400134: ID325 6
+    400136: ID325 7
+    400138: ID325 8
+    400140: ID325 9
+    400142: ID33
+    400144: ID33 1
+    400146: ID33 2
+    400148: ID33 3
+    400150: ID333
+    400152: ID333 1
+    400154: ID333 10
+    400156: ID333 11
+    400158: ID333 12
+    400160: ID333 13
+    400162: ID333 14
+    400164: ID333 15
+    400166: ID333 16
+    400168: ID333 17
+    400170: ID333 18
+    400172: ID333 19
+    400174: ID333 2
+    400176: ID333 20
+    400178: ID333 21
+    400180: ID333 22
+    400182: ID333 23
+    400184: ID333 24
+    400186: ID333 25
+    400188: ID333 26
+    400190: ID333 27
+    400192: ID333 28
+    400194: ID333 29
+    400196: ID333 3
+    400198: ID333 30
+    400200: ID333 31
+    400202: ID333 4
+    400204: ID333 5
+    400206: ID333 6
+    400208: ID333 7
+    400210: ID333 8
+    400212: ID333 9
+    400214: ID379
+    400216: ID379 1
+    400218: ID379 2
+    400220: ID379 3
+    400222: ID387
+    400224: ID387 1
+    400226: ID387 2
+    400228: ID387 3
+    400230: ID395
+    400232: ID395 1
+    400234: ID395 2
+    400236: ID395 3
+    400238: ID401
+    400240: ID401 1
+    400242: ID401 2
+    400244: ID401 3
+    400246: ID414
+    400248: ID414 1
+    400250: ID414 2
+    400252: ID414 3
+    400254: ID438
+    400256: ID438 1
+    400258: ID438 2
+    400260: ID438 3
+    400262: ID451
+    400264: ID451 1
+    400266: ID451 2
+    400268: ID451 3
+    400270: ID46
+    400272: ID46 1
+    400274: ID46 2
+    400276: ID46 3
+    400278: ID464
+    400280: ID464 1
+    400282: ID464 2
+    400284: ID464 3
+    400286: ID477
+    400288: ID477 1
+    400290: ID477 2
+    400292: ID477 3
+    400294: ID483
+    400296: ID483 1
+    400298: ID483 2
+    400300: ID483 3
+    400302: ID491
+    400304: ID491 1
+    400306: ID491 2
+    400308: ID491 3
+    400310: ID497
+    400312: ID497 1
+    400314: ID497 2
+    400316: ID497 3
+    400318: ID505
+    400320: ID505 1
+    400322: ID505 2
+    400324: ID505 3
+    400326: ID511
+    400328: ID511 1
+    400330: ID511 2
+    400332: ID511 3
+    400334: ID519
+    400336: ID519 1
+    400338: ID519 2
+    400340: ID519 3
+    400342: ID527
+    400344: ID527 1
+    400346: ID527 2
+    400348: ID527 3
+    400350: ID533
+    400352: ID533 1
+    400354: ID533 2
+    400356: ID533 3
+    400358: ID54
+    400360: ID54 1
+    400362: ID54 2
+    400364: ID54 3
+    400366: ID541
+    400368: ID541 1
+    400370: ID541 2
+    400372: ID541 3
+    400374: ID549
+    400376: ID549 1
+    400378: ID549 2
+    400380: ID549 3
+    400382: ID557
+    400384: ID557 1
+    400386: ID557 2
+    400388: ID557 3
+    400390: ID563
+    400392: ID563 1
+    400394: ID563 2
+    400396: ID563 3
+    400398: ID593
+    400400: ID62
+    400402: ID62 1
+    400404: ID62 2
+    400406: ID62 3
+    400408: ID75
+    400410: ID75 1
+    400412: ID75 2
+    400414: ID75 3
+    400416: ID83
+    400418: ID83 1
+    400420: ID83 2
+    400422: ID83 3
+    400424: ID89
+    400426: ID89 1
+    400428: ID89 2
+    400430: ID89 3
+    400432: instance_0
+    400434: instance_1
+    400436: instance_10
+    400438: instance_11
+    400440: instance_12
+    400442: instance_13
+    400444: instance_14
+    400446: instance_15
+    400448: instance_15 1
+    400450: instance_15 2
+    400452: instance_15 3
+    400454: instance_16
+    400456: instance_16 1
+    400458: instance_16 10
+    400460: instance_16 11
+    400462: instance_16 12
+    400464: instance_16 13
+    400466: instance_16 14
+    400468: instance_16 15
+    400470: instance_16 16
+    400472: instance_16 17
+    400474: instance_16 18
+    400476: instance_16 19
+    400478: instance_16 2
+    400480: instance_16 20
+    400482: instance_16 21
+    400484: instance_16 22
+    400486: instance_16 23
+    400488: instance_16 24
+    400490: instance_16 25
+    400492: instance_16 26
+    400494: instance_16 27
+    400496: instance_16 28
+    400498: instance_16 29
+    400500: instance_16 3
+    400502: instance_16 30
+    400504: instance_16 31
+    400506: instance_16 4
+    400508: instance_16 5
+    400510: instance_16 6
+    400512: instance_16 7
+    400514: instance_16 8
+    400516: instance_16 9
+    400518: instance_17
+    400520: instance_17 1
+    400522: instance_17 10
+    400524: instance_17 11
+    400526: instance_17 12
+    400528: instance_17 13
+    400530: instance_17 14
+    400532: instance_17 15
+    400534: instance_17 16
+    400536: instance_17 17
+    400538: instance_17 18
+    400540: instance_17 19
+    400542: instance_17 2
+    400544: instance_17 20
+    400546: instance_17 21
+    400548: instance_17 22
+    400550: instance_17 23
+    400552: instance_17 24
+    400554: instance_17 25
+    400556: instance_17 26
+    400558: instance_17 27
+    400560: instance_17 28
+    400562: instance_17 29
+    400564: instance_17 3
+    400566: instance_17 30
+    400568: instance_17 31
+    400570: instance_17 4
+    400572: instance_17 5
+    400574: instance_17 6
+    400576: instance_17 7
+    400578: instance_17 8
+    400580: instance_17 9
+    400582: instance_18
+    400584: instance_18 1
+    400586: instance_18 10
+    400588: instance_18 11
+    400590: instance_18 12
+    400592: instance_18 13
+    400594: instance_18 14
+    400596: instance_18 15
+    400598: instance_18 16
+    400600: instance_18 17
+    400602: instance_18 18
+    400604: instance_18 19
+    400606: instance_18 2
+    400608: instance_18 20
+    400610: instance_18 21
+    400612: instance_18 22
+    400614: instance_18 23
+    400616: instance_18 24
+    400618: instance_18 25
+    400620: instance_18 26
+    400622: instance_18 27
+    400624: instance_18 28
+    400626: instance_18 29
+    400628: instance_18 3
+    400630: instance_18 30
+    400632: instance_18 31
+    400634: instance_18 4
+    400636: instance_18 5
+    400638: instance_18 6
+    400640: instance_18 7
+    400642: instance_18 8
+    400644: instance_18 9
+    400646: instance_19
+    400648: instance_19 1
+    400650: instance_19 2
+    400652: instance_19 3
+    400654: instance_2
+    400656: instance_20
+    400658: instance_20 1
+    400660: instance_20 2
+    400662: instance_20 3
+    400664: instance_21
+    400666: instance_21 1
+    400668: instance_21 2
+    400670: instance_21 3
+    400672: instance_22
+    400674: instance_22 1
+    400676: instance_22 2
+    400678: instance_22 3
+    400680: instance_23
+    400682: instance_23 1
+    400684: instance_23 2
+    400686: instance_23 3
+    400688: instance_24
+    400690: instance_24 1
+    400692: instance_24 2
+    400694: instance_24 3
+    400696: instance_25
+    400698: instance_25 1
+    400700: instance_25 2
+    400702: instance_25 3
+    400704: instance_26
+    400706: instance_26 1
+    400708: instance_26 2
+    400710: instance_26 3
+    400712: instance_27
+    400714: instance_27 1
+    400716: instance_27 2
+    400718: instance_27 3
+    400720: instance_28
+    400722: instance_28 1
+    400724: instance_28 2
+    400726: instance_28 3
+    400728: instance_29
+    400730: instance_29 1
+    400732: instance_29 2
+    400734: instance_29 3
+    400736: instance_3
+    400738: instance_30
+    400740: instance_31
+    400742: instance_32
+    400744: instance_33
+    400746: instance_34
+    400748: instance_35
+    400750: instance_36
+    400752: instance_37
+    400754: instance_38
+    400756: instance_39
+    400758: instance_4
+    400760: instance_40
+    400762: instance_41
+    400764: instance_42
+    400766: instance_43
+    400768: instance_44
+    400770: instance_5
+    400772: instance_6
+    400774: instance_7
+    400776: instance_8
+    400778: instance_9
+    400780: LongWall
+    400782: LongWall 1
+    400784: LongWall 2
+    400786: LongWall 3
+    400788: Middle_Wall
+    400790: Middle_Wall 1
+    400792: Middle_Wall 2
+    400794: Middle_Wall 3
+    400796: Plane
+    400798: skp_camera_Last_Saved_SketchUp_View
+    400800: Small_Wall
+    400802: Small_Wall 1
+    400804: Small_Wall 2
+    400806: Small_Wall 3
+    400808: Small_Wall 4
+    400810: Small_Wall 5
+    400812: Small_Wall 6
+    400814: Small_Wall 7
+    400816: Tower
+    400818: Tower 1
+    400820: Tower 2
+    400822: Tower 3
+    400824: Tower_Arch
+    400826: Tower_Arch 1
+    400828: Tower_Arch 10
+    400830: Tower_Arch 11
+    400832: Tower_Arch 12
+    400834: Tower_Arch 13
+    400836: Tower_Arch 14
+    400838: Tower_Arch 15
+    400840: Tower_Arch 16
+    400842: Tower_Arch 17
+    400844: Tower_Arch 18
+    400846: Tower_Arch 19
+    400848: Tower_Arch 2
+    400850: Tower_Arch 20
+    400852: Tower_Arch 21
+    400854: Tower_Arch 22
+    400856: Tower_Arch 23
+    400858: Tower_Arch 24
+    400860: Tower_Arch 25
+    400862: Tower_Arch 26
+    400864: Tower_Arch 27
+    400866: Tower_Arch 28
+    400868: Tower_Arch 29
+    400870: Tower_Arch 3
+    400872: Tower_Arch 30
+    400874: Tower_Arch 31
+    400876: Tower_Arch 32
+    400878: Tower_Arch 33
+    400880: Tower_Arch 34
+    400882: Tower_Arch 35
+    400884: Tower_Arch 36
+    400886: Tower_Arch 37
+    400888: Tower_Arch 38
+    400890: Tower_Arch 39
+    400892: Tower_Arch 4
+    400894: Tower_Arch 40
+    400896: Tower_Arch 41
+    400898: Tower_Arch 42
+    400900: Tower_Arch 43
+    400902: Tower_Arch 44
+    400904: Tower_Arch 45
+    400906: Tower_Arch 46
+    400908: Tower_Arch 47
+    400910: Tower_Arch 48
+    400912: Tower_Arch 49
+    400914: Tower_Arch 5
+    400916: Tower_Arch 50
+    400918: Tower_Arch 51
+    400920: Tower_Arch 52
+    400922: Tower_Arch 53
+    400924: Tower_Arch 54
+    400926: Tower_Arch 55
+    400928: Tower_Arch 56
+    400930: Tower_Arch 57
+    400932: Tower_Arch 58
+    400934: Tower_Arch 59
+    400936: Tower_Arch 6
+    400938: Tower_Arch 60
+    400940: Tower_Arch 61
+    400942: Tower_Arch 62
+    400944: Tower_Arch 63
+    400946: Tower_Arch 64
+    400948: Tower_Arch 65
+    400950: Tower_Arch 66
+    400952: Tower_Arch 67
+    400954: Tower_Arch 68
+    400956: Tower_Arch 69
+    400958: Tower_Arch 7
+    400960: Tower_Arch 70
+    400962: Tower_Arch 71
+    400964: Tower_Arch 72
+    400966: Tower_Arch 73
+    400968: Tower_Arch 74
+    400970: Tower_Arch 75
+    400972: Tower_Arch 76
+    400974: Tower_Arch 77
+    400976: Tower_Arch 78
+    400978: Tower_Arch 79
+    400980: Tower_Arch 8
+    400982: Tower_Arch 80
+    400984: Tower_Arch 81
+    400986: Tower_Arch 82
+    400988: Tower_Arch 83
+    400990: Tower_Arch 84
+    400992: Tower_Arch 85
+    400994: Tower_Arch 86
+    400996: Tower_Arch 87
+    400998: Tower_Arch 88
+    401000: Tower_Arch 89
+    401002: Tower_Arch 9
+    401004: Tower_Arch 90
+    401006: Tower_Arch 91
+    401008: Tower_Arch 92
+    401010: Tower_Arch 93
+    401012: Tower_Arch 94
+    401014: Tower_Arch 95
+    401016: Tower_Arches
+    401018: Tower_Arches 1
+    401020: Tower_Arches 10
+    401022: Tower_Arches 11
+    401024: Tower_Arches 12
+    401026: Tower_Arches 13
+    401028: Tower_Arches 14
+    401030: Tower_Arches 15
+    401032: Tower_Arches 16
+    401034: Tower_Arches 17
+    401036: Tower_Arches 18
+    401038: Tower_Arches 19
+    401040: Tower_Arches 2
+    401042: Tower_Arches 20
+    401044: Tower_Arches 21
+    401046: Tower_Arches 22
+    401048: Tower_Arches 23
+    401050: Tower_Arches 24
+    401052: Tower_Arches 25
+    401054: Tower_Arches 26
+    401056: Tower_Arches 27
+    401058: Tower_Arches 28
+    401060: Tower_Arches 29
+    401062: Tower_Arches 3
+    401064: Tower_Arches 30
+    401066: Tower_Arches 31
+    401068: Tower_Arches 4
+    401070: Tower_Arches 5
+    401072: Tower_Arches 6
+    401074: Tower_Arches 7
+    401076: Tower_Arches 8
+    401078: Tower_Arches 9
+    401080: Tower_Trim
+    401082: Tower_Trim 1
+    401084: Tower_Trim 10
+    401086: Tower_Trim 11
+    401088: Tower_Trim 12
+    401090: Tower_Trim 13
+    401092: Tower_Trim 14
+    401094: Tower_Trim 15
+    401096: Tower_Trim 2
+    401098: Tower_Trim 3
+    401100: Tower_Trim 4
+    401102: Tower_Trim 5
+    401104: Tower_Trim 6
+    401106: Tower_Trim 7
+    401108: Tower_Trim 8
+    401110: Tower_Trim 9
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Stone_Coursed_Rough
+    2100002: Stone_Flagstone_Ashlar
+    2100004: Brick_Rough_Tan
+    2100006: Cinder_Block
+    2100008: material
+    2100010: Concrete_Block_8x8_Gray
+    2100012: Wood_Fence
+    2100014: Metal_Seamed
+    2100016: Brick_Antique_02
+    2100018: Concrete_Block_8x8_Gray_0
+    2100020: Translucent_Glass_Gray
+    2100022: Cinder_Block_1
+    2100024: Translucent_Glass_Tinted
+    2100026: Stone_Masonry_Multi
+    2100028: Cladding_Stucco_White
+    2100030: Brick_Rough_Dark
+    2100032: Brick_Rough_Tan_2
+    2100034: Brick_Colored_Blue
+    2100036: Carrera_Marble
+    2100038: Stone_Brushed_Khaki
+    2100040: Stone_Marble
+    2100042: Stone_Vein_Gray
+    2300000: Center
+    2300002: Center_Corner
+    2300004: Center_Corner 1
+    2300006: Center_Corner 2
+    2300008: Center_steps
+    2300010: Center_steps 1
+    2300012: Center_steps 2
+    2300014: Center_steps 3
+    2300016: Core
+    2300018: group_0
+    2300020: group_0 1
+    2300022: group_0 2
+    2300024: group_0 3
+    2300026: ID102
+    2300028: ID102 1
+    2300030: ID102 2
+    2300032: ID102 3
+    2300034: ID115
+    2300036: ID115 1
+    2300038: ID115 2
+    2300040: ID115 3
+    2300042: ID123
+    2300044: ID123 1
+    2300046: ID123 2
+    2300048: ID123 3
+    2300050: ID131
+    2300052: ID131 1
+    2300054: ID131 2
+    2300056: ID131 3
+    2300058: ID206
+    2300060: ID214
+    2300062: ID222
+    2300064: ID230
+    2300066: ID238
+    2300068: ID246
+    2300070: ID254
+    2300072: ID262
+    2300074: ID325
+    2300076: ID325 1
+    2300078: ID325 10
+    2300080: ID325 11
+    2300082: ID325 12
+    2300084: ID325 13
+    2300086: ID325 14
+    2300088: ID325 15
+    2300090: ID325 16
+    2300092: ID325 17
+    2300094: ID325 18
+    2300096: ID325 19
+    2300098: ID325 2
+    2300100: ID325 20
+    2300102: ID325 21
+    2300104: ID325 22
+    2300106: ID325 23
+    2300108: ID325 24
+    2300110: ID325 25
+    2300112: ID325 26
+    2300114: ID325 27
+    2300116: ID325 28
+    2300118: ID325 29
+    2300120: ID325 3
+    2300122: ID325 30
+    2300124: ID325 31
+    2300126: ID325 4
+    2300128: ID325 5
+    2300130: ID325 6
+    2300132: ID325 7
+    2300134: ID325 8
+    2300136: ID325 9
+    2300138: ID33
+    2300140: ID33 1
+    2300142: ID33 2
+    2300144: ID33 3
+    2300146: ID333
+    2300148: ID333 1
+    2300150: ID333 10
+    2300152: ID333 11
+    2300154: ID333 12
+    2300156: ID333 13
+    2300158: ID333 14
+    2300160: ID333 15
+    2300162: ID333 16
+    2300164: ID333 17
+    2300166: ID333 18
+    2300168: ID333 19
+    2300170: ID333 2
+    2300172: ID333 20
+    2300174: ID333 21
+    2300176: ID333 22
+    2300178: ID333 23
+    2300180: ID333 24
+    2300182: ID333 25
+    2300184: ID333 26
+    2300186: ID333 27
+    2300188: ID333 28
+    2300190: ID333 29
+    2300192: ID333 3
+    2300194: ID333 30
+    2300196: ID333 31
+    2300198: ID333 4
+    2300200: ID333 5
+    2300202: ID333 6
+    2300204: ID333 7
+    2300206: ID333 8
+    2300208: ID333 9
+    2300210: ID379
+    2300212: ID379 1
+    2300214: ID379 2
+    2300216: ID379 3
+    2300218: ID387
+    2300220: ID387 1
+    2300222: ID387 2
+    2300224: ID387 3
+    2300226: ID395
+    2300228: ID395 1
+    2300230: ID395 2
+    2300232: ID395 3
+    2300234: ID401
+    2300236: ID401 1
+    2300238: ID401 2
+    2300240: ID401 3
+    2300242: ID438
+    2300244: ID438 1
+    2300246: ID438 2
+    2300248: ID438 3
+    2300250: ID451
+    2300252: ID451 1
+    2300254: ID451 2
+    2300256: ID451 3
+    2300258: ID46
+    2300260: ID46 1
+    2300262: ID46 2
+    2300264: ID46 3
+    2300266: ID464
+    2300268: ID464 1
+    2300270: ID464 2
+    2300272: ID464 3
+    2300274: ID477
+    2300276: ID477 1
+    2300278: ID477 2
+    2300280: ID477 3
+    2300282: ID483
+    2300284: ID483 1
+    2300286: ID483 2
+    2300288: ID483 3
+    2300290: ID491
+    2300292: ID491 1
+    2300294: ID491 2
+    2300296: ID491 3
+    2300298: ID497
+    2300300: ID497 1
+    2300302: ID497 2
+    2300304: ID497 3
+    2300306: ID505
+    2300308: ID505 1
+    2300310: ID505 2
+    2300312: ID505 3
+    2300314: ID511
+    2300316: ID511 1
+    2300318: ID511 2
+    2300320: ID511 3
+    2300322: ID519
+    2300324: ID519 1
+    2300326: ID519 2
+    2300328: ID519 3
+    2300330: ID527
+    2300332: ID527 1
+    2300334: ID527 2
+    2300336: ID527 3
+    2300338: ID533
+    2300340: ID533 1
+    2300342: ID533 2
+    2300344: ID533 3
+    2300346: ID54
+    2300348: ID54 1
+    2300350: ID54 2
+    2300352: ID54 3
+    2300354: ID541
+    2300356: ID541 1
+    2300358: ID541 2
+    2300360: ID541 3
+    2300362: ID549
+    2300364: ID549 1
+    2300366: ID549 2
+    2300368: ID549 3
+    2300370: ID557
+    2300372: ID557 1
+    2300374: ID557 2
+    2300376: ID557 3
+    2300378: ID563
+    2300380: ID563 1
+    2300382: ID563 2
+    2300384: ID563 3
+    2300386: ID62
+    2300388: ID62 1
+    2300390: ID62 2
+    2300392: ID62 3
+    2300394: ID75
+    2300396: ID75 1
+    2300398: ID75 2
+    2300400: ID75 3
+    2300402: ID83
+    2300404: ID83 1
+    2300406: ID83 2
+    2300408: ID83 3
+    2300410: ID89
+    2300412: ID89 1
+    2300414: ID89 2
+    2300416: ID89 3
+    2300418: LongWall
+    2300420: LongWall 1
+    2300422: LongWall 2
+    2300424: LongWall 3
+    2300426: Middle_Wall
+    2300428: Middle_Wall 1
+    2300430: Middle_Wall 2
+    2300432: Middle_Wall 3
+    2300434: Plane
+    2300436: Small_Wall
+    2300438: Small_Wall 1
+    2300440: Small_Wall 2
+    2300442: Small_Wall 3
+    2300444: Small_Wall 4
+    2300446: Small_Wall 5
+    2300448: Small_Wall 6
+    2300450: Small_Wall 7
+    2300452: Tower
+    2300454: Tower 1
+    2300456: Tower 2
+    2300458: Tower 3
+    2300460: Tower_Arch
+    2300462: Tower_Arch 1
+    2300464: Tower_Arch 10
+    2300466: Tower_Arch 11
+    2300468: Tower_Arch 12
+    2300470: Tower_Arch 13
+    2300472: Tower_Arch 14
+    2300474: Tower_Arch 15
+    2300476: Tower_Arch 16
+    2300478: Tower_Arch 17
+    2300480: Tower_Arch 18
+    2300482: Tower_Arch 19
+    2300484: Tower_Arch 2
+    2300486: Tower_Arch 20
+    2300488: Tower_Arch 21
+    2300490: Tower_Arch 22
+    2300492: Tower_Arch 23
+    2300494: Tower_Arch 24
+    2300496: Tower_Arch 25
+    2300498: Tower_Arch 26
+    2300500: Tower_Arch 27
+    2300502: Tower_Arch 28
+    2300504: Tower_Arch 29
+    2300506: Tower_Arch 3
+    2300508: Tower_Arch 30
+    2300510: Tower_Arch 31
+    2300512: Tower_Arch 32
+    2300514: Tower_Arch 33
+    2300516: Tower_Arch 34
+    2300518: Tower_Arch 35
+    2300520: Tower_Arch 36
+    2300522: Tower_Arch 37
+    2300524: Tower_Arch 38
+    2300526: Tower_Arch 39
+    2300528: Tower_Arch 4
+    2300530: Tower_Arch 40
+    2300532: Tower_Arch 41
+    2300534: Tower_Arch 42
+    2300536: Tower_Arch 43
+    2300538: Tower_Arch 44
+    2300540: Tower_Arch 45
+    2300542: Tower_Arch 46
+    2300544: Tower_Arch 47
+    2300546: Tower_Arch 48
+    2300548: Tower_Arch 49
+    2300550: Tower_Arch 5
+    2300552: Tower_Arch 50
+    2300554: Tower_Arch 51
+    2300556: Tower_Arch 52
+    2300558: Tower_Arch 53
+    2300560: Tower_Arch 54
+    2300562: Tower_Arch 55
+    2300564: Tower_Arch 56
+    2300566: Tower_Arch 57
+    2300568: Tower_Arch 58
+    2300570: Tower_Arch 59
+    2300572: Tower_Arch 6
+    2300574: Tower_Arch 60
+    2300576: Tower_Arch 61
+    2300578: Tower_Arch 62
+    2300580: Tower_Arch 63
+    2300582: Tower_Arch 64
+    2300584: Tower_Arch 65
+    2300586: Tower_Arch 66
+    2300588: Tower_Arch 67
+    2300590: Tower_Arch 68
+    2300592: Tower_Arch 69
+    2300594: Tower_Arch 7
+    2300596: Tower_Arch 70
+    2300598: Tower_Arch 71
+    2300600: Tower_Arch 72
+    2300602: Tower_Arch 73
+    2300604: Tower_Arch 74
+    2300606: Tower_Arch 75
+    2300608: Tower_Arch 76
+    2300610: Tower_Arch 77
+    2300612: Tower_Arch 78
+    2300614: Tower_Arch 79
+    2300616: Tower_Arch 8
+    2300618: Tower_Arch 80
+    2300620: Tower_Arch 81
+    2300622: Tower_Arch 82
+    2300624: Tower_Arch 83
+    2300626: Tower_Arch 84
+    2300628: Tower_Arch 85
+    2300630: Tower_Arch 86
+    2300632: Tower_Arch 87
+    2300634: Tower_Arch 88
+    2300636: Tower_Arch 89
+    2300638: Tower_Arch 9
+    2300640: Tower_Arch 90
+    2300642: Tower_Arch 91
+    2300644: Tower_Arch 92
+    2300646: Tower_Arch 93
+    2300648: Tower_Arch 94
+    2300650: Tower_Arch 95
+    2300652: Tower_Arches
+    2300654: Tower_Arches 1
+    2300656: Tower_Arches 10
+    2300658: Tower_Arches 11
+    2300660: Tower_Arches 12
+    2300662: Tower_Arches 13
+    2300664: Tower_Arches 14
+    2300666: Tower_Arches 15
+    2300668: Tower_Arches 16
+    2300670: Tower_Arches 17
+    2300672: Tower_Arches 18
+    2300674: Tower_Arches 19
+    2300676: Tower_Arches 2
+    2300678: Tower_Arches 20
+    2300680: Tower_Arches 21
+    2300682: Tower_Arches 22
+    2300684: Tower_Arches 23
+    2300686: Tower_Arches 24
+    2300688: Tower_Arches 25
+    2300690: Tower_Arches 26
+    2300692: Tower_Arches 27
+    2300694: Tower_Arches 28
+    2300696: Tower_Arches 29
+    2300698: Tower_Arches 3
+    2300700: Tower_Arches 30
+    2300702: Tower_Arches 31
+    2300704: Tower_Arches 4
+    2300706: Tower_Arches 5
+    2300708: Tower_Arches 6
+    2300710: Tower_Arches 7
+    2300712: Tower_Arches 8
+    2300714: Tower_Arches 9
+    2300716: Tower_Trim
+    2300718: Tower_Trim 1
+    2300720: Tower_Trim 10
+    2300722: Tower_Trim 11
+    2300724: Tower_Trim 12
+    2300726: Tower_Trim 13
+    2300728: Tower_Trim 14
+    2300730: Tower_Trim 15
+    2300732: Tower_Trim 2
+    2300734: Tower_Trim 3
+    2300736: Tower_Trim 4
+    2300738: Tower_Trim 5
+    2300740: Tower_Trim 6
+    2300742: Tower_Trim 7
+    2300744: Tower_Trim 8
+    2300746: Tower_Trim 9
+    3300000: Center
+    3300002: Center_Corner
+    3300004: Center_Corner 1
+    3300006: Center_Corner 2
+    3300008: Center_steps
+    3300010: Center_steps 1
+    3300012: Center_steps 2
+    3300014: Center_steps 3
+    3300016: Core
+    3300018: group_0
+    3300020: group_0 1
+    3300022: group_0 2
+    3300024: group_0 3
+    3300026: ID102
+    3300028: ID102 1
+    3300030: ID102 2
+    3300032: ID102 3
+    3300034: ID115
+    3300036: ID115 1
+    3300038: ID115 2
+    3300040: ID115 3
+    3300042: ID123
+    3300044: ID123 1
+    3300046: ID123 2
+    3300048: ID123 3
+    3300050: ID131
+    3300052: ID131 1
+    3300054: ID131 2
+    3300056: ID131 3
+    3300058: ID206
+    3300060: ID214
+    3300062: ID222
+    3300064: ID230
+    3300066: ID238
+    3300068: ID246
+    3300070: ID254
+    3300072: ID262
+    3300074: ID325
+    3300076: ID325 1
+    3300078: ID325 10
+    3300080: ID325 11
+    3300082: ID325 12
+    3300084: ID325 13
+    3300086: ID325 14
+    3300088: ID325 15
+    3300090: ID325 16
+    3300092: ID325 17
+    3300094: ID325 18
+    3300096: ID325 19
+    3300098: ID325 2
+    3300100: ID325 20
+    3300102: ID325 21
+    3300104: ID325 22
+    3300106: ID325 23
+    3300108: ID325 24
+    3300110: ID325 25
+    3300112: ID325 26
+    3300114: ID325 27
+    3300116: ID325 28
+    3300118: ID325 29
+    3300120: ID325 3
+    3300122: ID325 30
+    3300124: ID325 31
+    3300126: ID325 4
+    3300128: ID325 5
+    3300130: ID325 6
+    3300132: ID325 7
+    3300134: ID325 8
+    3300136: ID325 9
+    3300138: ID33
+    3300140: ID33 1
+    3300142: ID33 2
+    3300144: ID33 3
+    3300146: ID333
+    3300148: ID333 1
+    3300150: ID333 10
+    3300152: ID333 11
+    3300154: ID333 12
+    3300156: ID333 13
+    3300158: ID333 14
+    3300160: ID333 15
+    3300162: ID333 16
+    3300164: ID333 17
+    3300166: ID333 18
+    3300168: ID333 19
+    3300170: ID333 2
+    3300172: ID333 20
+    3300174: ID333 21
+    3300176: ID333 22
+    3300178: ID333 23
+    3300180: ID333 24
+    3300182: ID333 25
+    3300184: ID333 26
+    3300186: ID333 27
+    3300188: ID333 28
+    3300190: ID333 29
+    3300192: ID333 3
+    3300194: ID333 30
+    3300196: ID333 31
+    3300198: ID333 4
+    3300200: ID333 5
+    3300202: ID333 6
+    3300204: ID333 7
+    3300206: ID333 8
+    3300208: ID333 9
+    3300210: ID379
+    3300212: ID379 1
+    3300214: ID379 2
+    3300216: ID379 3
+    3300218: ID387
+    3300220: ID387 1
+    3300222: ID387 2
+    3300224: ID387 3
+    3300226: ID395
+    3300228: ID395 1
+    3300230: ID395 2
+    3300232: ID395 3
+    3300234: ID401
+    3300236: ID401 1
+    3300238: ID401 2
+    3300240: ID401 3
+    3300242: ID438
+    3300244: ID438 1
+    3300246: ID438 2
+    3300248: ID438 3
+    3300250: ID451
+    3300252: ID451 1
+    3300254: ID451 2
+    3300256: ID451 3
+    3300258: ID46
+    3300260: ID46 1
+    3300262: ID46 2
+    3300264: ID46 3
+    3300266: ID464
+    3300268: ID464 1
+    3300270: ID464 2
+    3300272: ID464 3
+    3300274: ID477
+    3300276: ID477 1
+    3300278: ID477 2
+    3300280: ID477 3
+    3300282: ID483
+    3300284: ID483 1
+    3300286: ID483 2
+    3300288: ID483 3
+    3300290: ID491
+    3300292: ID491 1
+    3300294: ID491 2
+    3300296: ID491 3
+    3300298: ID497
+    3300300: ID497 1
+    3300302: ID497 2
+    3300304: ID497 3
+    3300306: ID505
+    3300308: ID505 1
+    3300310: ID505 2
+    3300312: ID505 3
+    3300314: ID511
+    3300316: ID511 1
+    3300318: ID511 2
+    3300320: ID511 3
+    3300322: ID519
+    3300324: ID519 1
+    3300326: ID519 2
+    3300328: ID519 3
+    3300330: ID527
+    3300332: ID527 1
+    3300334: ID527 2
+    3300336: ID527 3
+    3300338: ID533
+    3300340: ID533 1
+    3300342: ID533 2
+    3300344: ID533 3
+    3300346: ID54
+    3300348: ID54 1
+    3300350: ID54 2
+    3300352: ID54 3
+    3300354: ID541
+    3300356: ID541 1
+    3300358: ID541 2
+    3300360: ID541 3
+    3300362: ID549
+    3300364: ID549 1
+    3300366: ID549 2
+    3300368: ID549 3
+    3300370: ID557
+    3300372: ID557 1
+    3300374: ID557 2
+    3300376: ID557 3
+    3300378: ID563
+    3300380: ID563 1
+    3300382: ID563 2
+    3300384: ID563 3
+    3300386: ID62
+    3300388: ID62 1
+    3300390: ID62 2
+    3300392: ID62 3
+    3300394: ID75
+    3300396: ID75 1
+    3300398: ID75 2
+    3300400: ID75 3
+    3300402: ID83
+    3300404: ID83 1
+    3300406: ID83 2
+    3300408: ID83 3
+    3300410: ID89
+    3300412: ID89 1
+    3300414: ID89 2
+    3300416: ID89 3
+    3300418: LongWall
+    3300420: LongWall 1
+    3300422: LongWall 2
+    3300424: LongWall 3
+    3300426: Middle_Wall
+    3300428: Middle_Wall 1
+    3300430: Middle_Wall 2
+    3300432: Middle_Wall 3
+    3300434: Plane
+    3300436: Small_Wall
+    3300438: Small_Wall 1
+    3300440: Small_Wall 2
+    3300442: Small_Wall 3
+    3300444: Small_Wall 4
+    3300446: Small_Wall 5
+    3300448: Small_Wall 6
+    3300450: Small_Wall 7
+    3300452: Tower
+    3300454: Tower 1
+    3300456: Tower 2
+    3300458: Tower 3
+    3300460: Tower_Arch
+    3300462: Tower_Arch 1
+    3300464: Tower_Arch 10
+    3300466: Tower_Arch 11
+    3300468: Tower_Arch 12
+    3300470: Tower_Arch 13
+    3300472: Tower_Arch 14
+    3300474: Tower_Arch 15
+    3300476: Tower_Arch 16
+    3300478: Tower_Arch 17
+    3300480: Tower_Arch 18
+    3300482: Tower_Arch 19
+    3300484: Tower_Arch 2
+    3300486: Tower_Arch 20
+    3300488: Tower_Arch 21
+    3300490: Tower_Arch 22
+    3300492: Tower_Arch 23
+    3300494: Tower_Arch 24
+    3300496: Tower_Arch 25
+    3300498: Tower_Arch 26
+    3300500: Tower_Arch 27
+    3300502: Tower_Arch 28
+    3300504: Tower_Arch 29
+    3300506: Tower_Arch 3
+    3300508: Tower_Arch 30
+    3300510: Tower_Arch 31
+    3300512: Tower_Arch 32
+    3300514: Tower_Arch 33
+    3300516: Tower_Arch 34
+    3300518: Tower_Arch 35
+    3300520: Tower_Arch 36
+    3300522: Tower_Arch 37
+    3300524: Tower_Arch 38
+    3300526: Tower_Arch 39
+    3300528: Tower_Arch 4
+    3300530: Tower_Arch 40
+    3300532: Tower_Arch 41
+    3300534: Tower_Arch 42
+    3300536: Tower_Arch 43
+    3300538: Tower_Arch 44
+    3300540: Tower_Arch 45
+    3300542: Tower_Arch 46
+    3300544: Tower_Arch 47
+    3300546: Tower_Arch 48
+    3300548: Tower_Arch 49
+    3300550: Tower_Arch 5
+    3300552: Tower_Arch 50
+    3300554: Tower_Arch 51
+    3300556: Tower_Arch 52
+    3300558: Tower_Arch 53
+    3300560: Tower_Arch 54
+    3300562: Tower_Arch 55
+    3300564: Tower_Arch 56
+    3300566: Tower_Arch 57
+    3300568: Tower_Arch 58
+    3300570: Tower_Arch 59
+    3300572: Tower_Arch 6
+    3300574: Tower_Arch 60
+    3300576: Tower_Arch 61
+    3300578: Tower_Arch 62
+    3300580: Tower_Arch 63
+    3300582: Tower_Arch 64
+    3300584: Tower_Arch 65
+    3300586: Tower_Arch 66
+    3300588: Tower_Arch 67
+    3300590: Tower_Arch 68
+    3300592: Tower_Arch 69
+    3300594: Tower_Arch 7
+    3300596: Tower_Arch 70
+    3300598: Tower_Arch 71
+    3300600: Tower_Arch 72
+    3300602: Tower_Arch 73
+    3300604: Tower_Arch 74
+    3300606: Tower_Arch 75
+    3300608: Tower_Arch 76
+    3300610: Tower_Arch 77
+    3300612: Tower_Arch 78
+    3300614: Tower_Arch 79
+    3300616: Tower_Arch 8
+    3300618: Tower_Arch 80
+    3300620: Tower_Arch 81
+    3300622: Tower_Arch 82
+    3300624: Tower_Arch 83
+    3300626: Tower_Arch 84
+    3300628: Tower_Arch 85
+    3300630: Tower_Arch 86
+    3300632: Tower_Arch 87
+    3300634: Tower_Arch 88
+    3300636: Tower_Arch 89
+    3300638: Tower_Arch 9
+    3300640: Tower_Arch 90
+    3300642: Tower_Arch 91
+    3300644: Tower_Arch 92
+    3300646: Tower_Arch 93
+    3300648: Tower_Arch 94
+    3300650: Tower_Arch 95
+    3300652: Tower_Arches
+    3300654: Tower_Arches 1
+    3300656: Tower_Arches 10
+    3300658: Tower_Arches 11
+    3300660: Tower_Arches 12
+    3300662: Tower_Arches 13
+    3300664: Tower_Arches 14
+    3300666: Tower_Arches 15
+    3300668: Tower_Arches 16
+    3300670: Tower_Arches 17
+    3300672: Tower_Arches 18
+    3300674: Tower_Arches 19
+    3300676: Tower_Arches 2
+    3300678: Tower_Arches 20
+    3300680: Tower_Arches 21
+    3300682: Tower_Arches 22
+    3300684: Tower_Arches 23
+    3300686: Tower_Arches 24
+    3300688: Tower_Arches 25
+    3300690: Tower_Arches 26
+    3300692: Tower_Arches 27
+    3300694: Tower_Arches 28
+    3300696: Tower_Arches 29
+    3300698: Tower_Arches 3
+    3300700: Tower_Arches 30
+    3300702: Tower_Arches 31
+    3300704: Tower_Arches 4
+    3300706: Tower_Arches 5
+    3300708: Tower_Arches 6
+    3300710: Tower_Arches 7
+    3300712: Tower_Arches 8
+    3300714: Tower_Arches 9
+    3300716: Tower_Trim
+    3300718: Tower_Trim 1
+    3300720: Tower_Trim 10
+    3300722: Tower_Trim 11
+    3300724: Tower_Trim 12
+    3300726: Tower_Trim 13
+    3300728: Tower_Trim 14
+    3300730: Tower_Trim 15
+    3300732: Tower_Trim 2
+    3300734: Tower_Trim 3
+    3300736: Tower_Trim 4
+    3300738: Tower_Trim 5
+    3300740: Tower_Trim 6
+    3300742: Tower_Trim 7
+    3300744: Tower_Trim 8
+    3300746: Tower_Trim 9
+    4300000: Plane
+    4300002: LongWall
+    4300004: ID33
+    4300006: ID46
+    4300008: ID54
+    4300010: ID62
+    4300012: ID75
+    4300014: ID83
+    4300016: ID89
+    4300018: ID102
+    4300020: ID115
+    4300022: ID123
+    4300024: ID131
+    4300026: Center
+    4300028: ID206
+    4300030: ID214
+    4300032: ID222
+    4300034: ID230
+    4300036: ID238
+    4300038: ID246
+    4300040: ID254
+    4300042: ID262
+    4300044: Center_Corner
+    4300046: Center_steps
+    4300048: group_0
+    4300050: Core
+    4300052: Tower
+    4300054: ID379
+    4300056: ID387
+    4300058: ID395
+    4300060: ID401
+    4300062: Tower_Arches
+    4300064: ID325
+    4300066: ID333
+    4300068: Tower_Arch
+    4300070: Tower_Trim
+    4300072: Middle_Wall
+    4300074: ID438
+    4300076: ID451
+    4300078: ID464
+    4300080: ID477
+    4300082: ID483
+    4300084: ID491
+    4300086: ID497
+    4300088: ID505
+    4300090: ID511
+    4300092: ID519
+    4300094: ID527
+    4300096: ID533
+    4300098: ID541
+    4300100: ID549
+    4300102: ID557
+    4300104: ID563
+    4300106: Small_Wall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
